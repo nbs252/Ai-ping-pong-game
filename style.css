@@ -23,3 +23,13 @@ width: 90%;
 .modal-body{
 font-size: 20px;
 }
+
+.footer{
+bottom: 0;
+position: fixed;
+background-color: grey;
+color: white;
+line-height: 3;
+text-align: center;
+width: 100%;
+}
